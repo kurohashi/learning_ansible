@@ -1,0 +1,6 @@
+# all
+training_ubuntu
+training_amazon
+training_redhat
+# ungrouped
+me ansible_host=localhost
